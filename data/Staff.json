@@ -1,0 +1,155 @@
+[
+  {
+    "id": 1,
+    "name": "Sonal Verma",
+    "role": "Head Nurse",
+    "department": "Cardiology",
+    "phone": "9810012001",
+    "shift": "Day",
+    "status": "Active"
+  },
+  {
+    "id": 2,
+    "name": "Amit Kumar",
+    "role": "Lab Technician",
+    "department": "Diagnostics",
+    "phone": "9810012002",
+    "shift": "Day",
+    "status": "Active"
+  },
+  {
+    "id": 3,
+    "name": "Pooja Shah",
+    "role": "Receptionist",
+    "department": "Administration",
+    "phone": "9810012003",
+    "shift": "Day",
+    "status": "Active"
+  },
+  {
+    "id": 4,
+    "name": "Nikhil Patel",
+    "role": "Pharmacist",
+    "department": "Pharmacy",
+    "phone": "9810012004",
+    "shift": "Night",
+    "status": "Active"
+  },
+  {
+    "id": 5,
+    "name": "Kavita Mehta",
+    "role": "Nurse",
+    "department": "Emergency",
+    "phone": "9810012005",
+    "shift": "Night",
+    "status": "Active"
+  },
+  {
+    "id": 6,
+    "name": "Rahul Joshi",
+    "role": "Radiology Technician",
+    "department": "Radiology",
+    "phone": "9810012006",
+    "shift": "Day",
+    "status": "On Leave"
+  },
+  {
+    "id": 7,
+    "name": "Neelam Desai",
+    "role": "Staff Nurse",
+    "department": "General Medicine",
+    "phone": "9810012007",
+    "shift": "Day",
+    "status": "Active"
+  },
+  {
+    "id": 8,
+    "name": "Vivek Shah",
+    "role": "Ward Assistant",
+    "department": "Orthopedics",
+    "phone": "9810012008",
+    "shift": "Night",
+    "status": "Active"
+  },
+  {
+    "id": 9,
+    "name": "Mansi Patel",
+    "role": "Billing Executive",
+    "department": "Accounts",
+    "phone": "9810012009",
+    "shift": "Day",
+    "status": "Active"
+  },
+  {
+    "id": 10,
+    "name": "Harsh Mehta",
+    "role": "IT Support",
+    "department": "Administration",
+    "phone": "9810012010",
+    "shift": "Day",
+    "status": "Active"
+  },
+  {
+    "id": 11,
+    "name": "Ayesha Khan",
+    "role": "Staff Nurse",
+    "department": "Dermatology",
+    "phone": "9810022011",
+    "shift": "Day",
+    "status": "Active"
+  },
+  {
+    "id": 12,
+    "name": "Rajiv Patel",
+    "role": "Operation Theatre Technician",
+    "department": "General Surgery",
+    "phone": "9810022012",
+    "shift": "Day",
+    "status": "Active"
+  },
+  {
+    "id": 13,
+    "name": "Sneha Joshi",
+    "role": "ENT Technician",
+    "department": "ENT",
+    "phone": "9810022013",
+    "shift": "Day",
+    "status": "Active"
+  },
+  {
+    "id": 14,
+    "name": "Imran Sheikh",
+    "role": "Anesthesia Technician",
+    "department": "Anesthesiology",
+    "phone": "9810022014",
+    "shift": "Night",
+    "status": "Active"
+  },
+  {
+    "id": 15,
+    "name": "Nandini Shah",
+    "role": "Counsellor",
+    "department": "Mental Health",
+    "phone": "9810022015",
+    "shift": "Day",
+    "status": "Active"
+  },
+  {
+    "id": 16,
+    "name": "Chirag Desai",
+    "role": "Housekeeping Supervisor",
+    "department": "Facilities",
+    "phone": "9810022016",
+    "shift": "Night",
+    "status": "Active"
+  },
+  {
+    "id": 17,
+    "name": "Priyanka Modi",
+    "role": "Medical Records Officer",
+    "department": "Records",
+    "phone": "9810022017",
+    "shift": "Day",
+    "status": "Active"
+  }
+]
