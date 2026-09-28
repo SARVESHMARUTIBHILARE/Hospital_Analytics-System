@@ -1,0 +1,12 @@
+MedVista Hospital Analytics System
+Backend: Node.js
+Database: MongoDB
+Frontend: HTML, CSS, JavaScript
+Run: START_HOSPITAL_SYSTEM.bat
+URL: http://127.0.0.1:5000
+
+Python support:
+- Optional Python analytics service: python/analytics.py
+- Python reads data through the Node.js API.
+- MongoDB remains the only persistent database.
+- No SQL or SQLite database is included.
