@@ -5,7 +5,34 @@ A modern and interactive **Hospital Analytics System** designed to manage hospit
 The system uses **HTML, CSS, JavaScript, Node.js, MongoDB, and Python**. Node.js acts as the main backend, MongoDB stores application data, and Python provides additional analytics, reporting, and data-validation capabilities.
 
 ---
+## 📸 Screenshots
 
+### Hospital Analytics System
+
+| Screenshot 1 | Screenshot 2 |
+|:---:|:---:|
+| <img src="Images/sa1.png" alt="Hospital Dashboard" width="100%"> | <img src="Images/sa2.png" alt="Hospital Dashboard Analytics" width="100%"> |
+| **Dashboard** | **Dashboard Analytics** |
+
+| Screenshot 3 | Screenshot 4 |
+|:---:|:---:|
+| <img src="Images/sa3.png" alt="Patients Management" width="100%"> | <img src="Images/sa4.png" alt="Doctors Management" width="100%"> |
+| **Patients Management** | **Doctors Management** |
+
+| Screenshot 5 | Screenshot 6 |
+|:---:|:---:|
+| <img src="Images/sa5.png" alt="Staff Management" width="100%"> | <img src="Images/sa6.png" alt="Appointments Management" width="100%"> |
+| **Staff Management** | **Appointments Management** |
+
+| Screenshot 7 | Screenshot 8 |
+|:---:|:---:|
+| <img src="Images/sa7.png" alt="Patient Analytics" width="100%"> | <img src="Images/sa8.png" alt="Hospital Statistics" width="100%"> |
+| **Patient Analytics** | **Hospital Statistics** |
+
+| Screenshot 9 | Screenshot 10 |
+|:---:|:---:|
+| <img src="Images/sa9.png" alt="MongoDB Data" width="100%"> | <img src="Images/sa10.png" alt="Hospital Operations" width="100%"> |
+| **MongoDB Data** | **Hospital Operations** |
 ## 📌 Project Overview
 
 The **Hospital Analytics System** helps manage and analyze hospital-related information such as:
