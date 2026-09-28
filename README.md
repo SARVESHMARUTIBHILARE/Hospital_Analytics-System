@@ -562,7 +562,14 @@ The main objectives of the Hospital Analytics System are:
 **Browser:** Microsoft Edge
 
 ---
+### 👨‍💻 Developer
+Your Name:Bhilare Sarvesh Maruti Bhilare
+### 🔗 GitHub: https://github.com/SARVESHMARUTIBHILARE
 
+
+### 👨‍💻 Team Members
+Your Name:Taufeek Khan
+### 🔗 GitHub: https://github.com/taufeekkhan717-star
 # 📜 License
 
 This project is intended for educational and project-development purposes.
