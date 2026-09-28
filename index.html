@@ -1,0 +1,63 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>MedVista | Hospital Analytics</title>
+<link rel="stylesheet" href="static/css/style.css">
+</head>
+<body>
+<aside class="sidebar">
+  <div class="brand">
+    <div class="logo">✚</div>
+    <div class="brand-text"><b>MedVista</b><small>Hospital Analytics</small></div>
+  </div>
+  <nav>
+    <button class="nav active" data-view="dashboard">⌂ <span>Dashboard</span></button>
+    <button class="nav" data-view="patients">♙ <span>Patients</span></button>
+    <button class="nav" data-view="doctors">⚕ <span>Doctors</span></button>
+    <button class="nav" data-view="staff">◉ <span>Staff</span></button>
+    <button class="nav" data-view="appointments">◷ <span>Appointments</span></button>
+  </nav>
+  <div class="sidecard">
+    <strong>System Status</strong>
+    <p><i></i> All services operational</p>
+    <small>Node.js + MongoDB backend</small>
+  </div>
+</aside>
+
+<main>
+<header>
+  <div><div class="eyebrow">Hospital operations</div><h1 id="title">Dashboard</h1></div>
+  <div class="header-right"><span id="clock"></span><button class="refresh" id="refreshBtn">↻ Refresh</button></div>
+</header>
+
+<section id="dashboard" class="view">
+  <div class="hero">
+    <div><span class="pill">LIVE ANALYTICS</span><h2>Hospital Operations Center</h2>
+    <p>Monitor patients, doctors, staff, appointments and billing in one connected system.</p></div>
+    <div class="heroicon">✚</div>
+  </div>
+  <div class="kpis" id="kpis"></div>
+  <div class="grid2">
+    <div class="panel"><div class="panelhead"><div><h3>Patients by Department</h3><small>Current registered patients</small></div></div><canvas id="deptChart"></canvas></div>
+    <div class="panel"><div class="panelhead"><div><h3>Patient Status</h3><small>Admission overview</small></div></div><canvas id="statusChart"></canvas></div>
+  </div>
+  <div class="panel"><div class="panelhead"><div><h3>Operations Snapshot</h3><small>Connected to MongoDB database</small></div></div><div class="snapshot" id="snapshot"></div></div>
+</section>
+
+<section id="patients" class="view hidden"><div class="toolbar"><div><h2>Patients</h2><p>Manage admissions and patient records.</p></div><div class="actions"><a class="export" href="#" onclick="downloadCsv('patients');return false">↓ CSV</a><button onclick="openForm('patients')">+ Add Patient</button></div></div><div class="panel"><div class="tablewrap"><table id="patientsTable"></table></div></div></section>
+
+<section id="doctors" class="view hidden"><div class="toolbar"><div><h2>Doctors</h2><p>Clinical team directory and workload.</p></div><div class="actions"><a class="export" href="#" onclick="downloadCsv('doctors');return false">↓ CSV</a><button onclick="openForm('doctors')">+ Add Doctor</button></div></div><div class="panel"><div class="tablewrap"><table id="doctorsTable"></table></div></div></section>
+
+<section id="staff" class="view hidden"><div class="toolbar"><div><h2>Staff Members</h2><p>Nursing, diagnostics, pharmacy and administration.</p></div><div class="actions"><a class="export" href="#" onclick="downloadCsv('staff');return false">↓ CSV</a><button onclick="openForm('staff')">+ Add Staff</button></div></div><div class="panel"><div class="tablewrap"><table id="staffTable"></table></div></div></section>
+
+<section id="appointments" class="view hidden"><div class="toolbar"><div><h2>Appointments</h2><p>Upcoming scheduled clinical visits.</p></div><div class="actions"><a class="export" href="#" onclick="downloadCsv('appointments');return false">↓ CSV</a><button onclick="openForm('appointments')">+ Add Appointment</button></div></div><div class="panel"><div class="tablewrap"><table id="appointmentsTable"></table></div></div></section>
+
+<div class="modal hidden" id="modal"><div class="modalbox"><div class="modalhead"><h3 id="formTitle">Add Record</h3><button onclick="closeForm()">×</button></div><form id="form"></form></div></div>
+<div class="toast" id="toast"></div>
+</main>
+
+<script src="static/js/app.js"></script>
+</body>
+</html>
