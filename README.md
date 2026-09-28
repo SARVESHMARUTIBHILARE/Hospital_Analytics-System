@@ -7,32 +7,25 @@ The system uses **HTML, CSS, JavaScript, Node.js, MongoDB, and Python**. Node.js
 ---
 ## 📸 Screenshots
 
-### Hospital Analytics System
-
-| Screenshot 1 | Screenshot 2 |
+| Dashboard | Dashboard Analytics |
 |:---:|:---:|
-| <img src="Images/sa1.png" alt="Hospital Dashboard" width="100%"> | <img src="Images/sa2.png" alt="Hospital Dashboard Analytics" width="100%"> |
-| **Dashboard** | **Dashboard Analytics** |
+| <img src="Images/sa1.png" width="480" alt="Hospital Dashboard"> | <img src="Images/sa2.png" width="480" alt="Hospital Dashboard Analytics"> |
 
-| Screenshot 3 | Screenshot 4 |
+| Patients Management | Doctors Management |
 |:---:|:---:|
-| <img src="Images/sa3.png" alt="Patients Management" width="100%"> | <img src="Images/sa4.png" alt="Doctors Management" width="100%"> |
-| **Patients Management** | **Doctors Management** |
+| <img src="Images/sa3.png" width="480" alt="Patients Management"> | <img src="Images/sa4.png" width="480" alt="Doctors Management"> |
 
-| Screenshot 5 | Screenshot 6 |
+| Staff Management | Appointments Management |
 |:---:|:---:|
-| <img src="Images/sa5.png" alt="Staff Management" width="100%"> | <img src="Images/sa6.png" alt="Appointments Management" width="100%"> |
-| **Staff Management** | **Appointments Management** |
+| <img src="Images/sa5.png" width="480" alt="Staff Management"> | <img src="Images/sa6.png" width="480" alt="Appointments Management"> |
 
-| Screenshot 7 | Screenshot 8 |
+| Patient Analytics | Hospital Statistics |
 |:---:|:---:|
-| <img src="Images/sa7.png" alt="Patient Analytics" width="100%"> | <img src="Images/sa8.png" alt="Hospital Statistics" width="100%"> |
-| **Patient Analytics** | **Hospital Statistics** |
+| <img src="Images/sa7.png" width="480" alt="Patient Analytics"> | <img src="Images/sa8.png" width="480" alt="Hospital Statistics"> |
 
-| Screenshot 9 | Screenshot 10 |
+| MongoDB Data | Hospital Operations |
 |:---:|:---:|
-| <img src="Images/sa9.png" alt="MongoDB Data" width="100%"> | <img src="Images/sa10.png" alt="Hospital Operations" width="100%"> |
-| **MongoDB Data** | **Hospital Operations** |
+| <img src="Images/sa9.png" width="480" alt="MongoDB Data"> | <img src="Images/sa10.png" width="480" alt="Hospital Operations"> |
 ## 📌 Project Overview
 
 The **Hospital Analytics System** helps manage and analyze hospital-related information such as:
