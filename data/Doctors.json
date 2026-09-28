@@ -1,0 +1,132 @@
+[
+  {
+    "id": 1,
+    "name": "Dr. Raj Malhotra",
+    "specialty": "Cardiologist",
+    "department": "Cardiology",
+    "phone": "9825011001",
+    "experience": 14,
+    "patients": 86,
+    "availability": "Available"
+  },
+  {
+    "id": 2,
+    "name": "Dr. Neha Shah",
+    "specialty": "Neurologist",
+    "department": "Neurology",
+    "phone": "9825011002",
+    "experience": 10,
+    "patients": 72,
+    "availability": "Available"
+  },
+  {
+    "id": 3,
+    "name": "Dr. Arjun Mehta",
+    "specialty": "Orthopedic Surgeon",
+    "department": "Orthopedics",
+    "phone": "9825011003",
+    "experience": 12,
+    "patients": 91,
+    "availability": "Available"
+  },
+  {
+    "id": 4,
+    "name": "Dr. Priya Desai",
+    "specialty": "Physician",
+    "department": "General Medicine",
+    "phone": "9825011004",
+    "experience": 8,
+    "patients": 104,
+    "availability": "Available"
+  },
+  {
+    "id": 5,
+    "name": "Dr. Kunal Patel",
+    "specialty": "Pediatrician",
+    "department": "Pediatrics",
+    "phone": "9825011005",
+    "experience": 7,
+    "patients": 63,
+    "availability": "Busy"
+  },
+  {
+    "id": 6,
+    "name": "Dr. Riya Joshi",
+    "specialty": "Gynecologist",
+    "department": "Gynecology",
+    "phone": "9825011006",
+    "experience": 9,
+    "patients": 78,
+    "availability": "Available"
+  },
+  {
+    "id": 7,
+    "name": "Dr. Amit Trivedi",
+    "specialty": "Emergency Physician",
+    "department": "Emergency",
+    "phone": "9825011007",
+    "experience": 11,
+    "patients": 97,
+    "availability": "On Duty"
+  },
+  {
+    "id": 8,
+    "name": "Dr. Sneha Shah",
+    "specialty": "Radiologist",
+    "department": "Radiology",
+    "phone": "9825011008",
+    "experience": 13,
+    "patients": 69,
+    "availability": "Available"
+  },
+  {
+    "id": 9,
+    "name": "Dr. Anjali Rao",
+    "specialty": "Dermatologist",
+    "department": "Dermatology",
+    "phone": "9825021011",
+    "experience": 11,
+    "patients": 57,
+    "availability": "Available"
+  },
+  {
+    "id": 10,
+    "name": "Dr. Vikram Desai",
+    "specialty": "General Surgeon",
+    "department": "General Surgery",
+    "phone": "9825021012",
+    "experience": 15,
+    "patients": 88,
+    "availability": "Available"
+  },
+  {
+    "id": 11,
+    "name": "Dr. Pooja Mehta",
+    "specialty": "ENT Specialist",
+    "department": "ENT",
+    "phone": "9825021013",
+    "experience": 9,
+    "patients": 64,
+    "availability": "Available"
+  },
+  {
+    "id": 12,
+    "name": "Dr. Sameer Khan",
+    "specialty": "Anesthesiologist",
+    "department": "Anesthesiology",
+    "phone": "9825021014",
+    "experience": 13,
+    "patients": 71,
+    "availability": "On Duty"
+  },
+  {
+    "id": 13,
+    "name": "Dr. Neel Shah",
+    "specialty": "Psychiatrist",
+    "department": "Mental Health",
+    "phone": "9825021015",
+    "experience": 8,
+    "patients": 52,
+    "availability": "Available"
+  }
+]
