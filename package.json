@@ -1,0 +1,14 @@
+{
+  "name": "medvista-hospital-analytics",
+  "version": "4.0.0",
+  "private": true,
+  "description": "MedVista Hospital Analytics using Node.js and MongoDB",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "dependencies": {
+    "mongodb": "^6.19.0"
+  }
+}
